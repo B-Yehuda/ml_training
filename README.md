@@ -6,7 +6,7 @@ Training pipeline of several projects, the main entry point of each project is `
 
 ## Author
 
-- [@BYehuda](https://github.com/BYehuda)
+- [@B-Yehuda](https://github.com/B-Yehuda)
 
 
 ## Environment Setup
